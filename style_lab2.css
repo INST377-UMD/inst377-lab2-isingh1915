@@ -1,0 +1,52 @@
+/* general */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* form */
+.form-group {
+  margin: 20px 0;
+}
+
+label {
+  font-size: 1.2em;
+  display: block;
+  margin-bottom: 8px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* button */
+.submit-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+/* ty page */
+.thank-you-page {
+  background-color: #fff8da;
+}
+
+.thank-you-image {
+  width: 50%;
+  display: block;
+  margin: 20px auto;
+}
